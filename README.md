@@ -10,9 +10,9 @@ _This is a simple HTML website that tells about kittens or something. Its purpos
 
 ## Setup/Installation Requirements
 
-*_Clone this repository_
-*_Open simple HTTP server in the top level of the cloned directory._
-*_Enjoy!_
+*_Clone this repository_*
+*_Open simple HTTP server in the top level of the cloned directory._*
+*_Enjoy!_*
 
 ## Known Bugs
 
